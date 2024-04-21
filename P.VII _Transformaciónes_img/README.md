@@ -16,4 +16,4 @@ El script carga una imagen de entrada, aplica las transformaciones especificadas
 
 
 Imagen original. 
-!(https://github.com/deaangelg/Vision-Artificial-/blob/0b21642efbd965164729d9ec3e1a1804c48e3a93/P.VII%20_Transformaci%C3%B3nes_img/Escala.jpg)
+![imagen original](https://github.com/deaangelg/Vision-Artificial-/blob/c1321da373480dd49336bb328ee36f85989a7714/P.VII%20_Transformaci%C3%B3nes_img/ternurin.PNG)
