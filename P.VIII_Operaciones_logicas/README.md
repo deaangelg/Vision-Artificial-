@@ -12,3 +12,6 @@ El script realiza las siguientes acciones:
 Python 3.x
 OpenCV
 NumPy
+## Resultados
+
+![AND](https://github.com/deaangelg/Vision-Artificial-/blob/fc0414602bd537126b1c572404afb3cde522e2c4/P.VIII_Operaciones_logicas/AND.jpg)
