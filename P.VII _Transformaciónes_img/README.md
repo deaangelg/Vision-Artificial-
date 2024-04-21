@@ -15,3 +15,4 @@ El script carga una imagen de entrada, aplica las transformaciones especificadas
 ## Contenido 
 
 Imagen original. 
+!(P.VII _Transformaciónes_img/Escala.jpg)
