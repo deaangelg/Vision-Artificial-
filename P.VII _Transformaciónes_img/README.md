@@ -19,3 +19,5 @@ El script hace las siguientes transformaciones de la imagen original.
 ![imagen original](https://github.com/deaangelg/Vision-Artificial-/blob/c1321da373480dd49336bb328ee36f85989a7714/P.VII%20_Transformaci%C3%B3nes_img/ternurin.PNG)
 ### Traslación. 
 ![imagen traslacion](https://github.com/deaangelg/Vision-Artificial-/blob/6e5c1f2944def81b85482dea5c026de02204fb76/P.VII%20_Transformaci%C3%B3nes_img/Traslacion.jpg)
+### Rotación
+![imagen rotacion](https://github.com/deaangelg/Vision-Artificial-/blob/460e1223dc8b5edce762c621d1b3e25073553fcc/P.VII%20_Transformaci%C3%B3nes_img/Rotacion.jpg)
