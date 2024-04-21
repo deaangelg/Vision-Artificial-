@@ -28,5 +28,7 @@ Imagen original.
 
 ![Imagen original](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/patron.jpg)  
 Imagen Horizontal.  
-![Imagen horizontal](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/patron.jpg)  
-![Imagen vertical](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/patron.jpg) 
+![Imagen horizontal](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/Bordes%20horizontales.jpg) 
+![Imagen vertical](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/Bordes%20verticales.jpg)  
+
+![Deteccion de bordes](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/Det) 
