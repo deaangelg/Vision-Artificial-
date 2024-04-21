@@ -23,5 +23,10 @@ El script utiliza convolución con kernels predefinidos para detectar bordes hor
 1. Asegúrate de tener Python y las bibliotecas requeridas instaladas.
 2. Ejecuta el script proporcionando la imagen que deseas procesar.
 
-## Resultados.
+## Resultados.  
+Imagen original.  
 
+![Imagen original](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/patron.jpg)  
+Imagen Horizontal.  
+![Imagen horizontal](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/patron.jpg)  
+![Imagen vertical](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/patron.jpg) 
