@@ -31,4 +31,4 @@ Imagen Horizontal.
 ![Imagen horizontal](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/Bordes%20horizontales.jpg) 
 ![Imagen vertical](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/Bordes%20verticales.jpg)  
 
-![Deteccion de bordes](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/Det) 
+![Deteccion de bordes](https://github.com/deaangelg/Vision-Artificial-/blob/89617e74773a658f9afe81e2db167409bd267038/P.X._Filtros%20II/Deteccion%20de%20bordes.jpg) 
