@@ -10,7 +10,8 @@ Este script en Python utiliza el algoritmo Canny para detectar los bordes de una
 - NumPy
 
 ## Resultados
-Original 
+Original  
+
 ![Original](https://github.com/deaangelg/Vision-Artificial-/blob/348be02fcb87538ead6feff61b03b0062db67a70/Pr%C3%A1ctica%20XII%3A%20Canny/Cohete.jpg)  
 
 El script muestra dos imágenes:  
