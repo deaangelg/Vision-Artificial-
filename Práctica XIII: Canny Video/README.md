@@ -7,8 +7,8 @@ Este script en Python utiliza OpenCV para capturar video desde una cámara, apli
 - Python 3.x
 - OpenCV
 
-Resultados
+## Resultados
 El script mostrará el video en tiempo real con el filtro Canny aplicado. Presiona la tecla 'q' para cerrar la ventana y finalizar la ejecución del programa.
 
-Contribución
+## Contribución
 Siéntete libre de abrir un pull request o una issue si encuentras algún problema o tienes alguna mejora que sugerir.
