@@ -12,7 +12,9 @@ Este script en Python aplica ruido gaussiano y ruido sal y pimienta a una imagen
 Se generan 12 imágenes:
 De la imagen original  
 
-![Ruido Original]([https://github.com/deaangelg/Vision-Artificial-/blob/ded933df5b687581fa385ddc186b05b3656b5dcc/Pr%C3%A1ctica%20IX%3A%20Filtros/snoopy.jpg)  
+![Ruido Original](https://github.com/deaangelg/Vision-Artificial-/blob/ded933df5b687581fa385ddc186b05b3656b5dcc/Pr%C3%A1ctica%20IX%3A%20Filtros/snoopy.jpg)  
+
+
 2 imágenes con ruido: Ruido Gauss.jpg y Ruido Sal y Pimienta.jpg.  
 
 ![Ruido GAUSS](https://github.com/deaangelg/Vision-Artificial-/blob/ded933df5b687581fa385ddc186b05b3656b5dcc/Pr%C3%A1ctica%20IX%3A%20Filtros/Ruido%20Gauss.jpg)  
