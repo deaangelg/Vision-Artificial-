@@ -23,7 +23,8 @@ El script `filtro_bordes.py` carga una imagen en escala de grises y aplica tres 
 - 
 ## Resultados
 
-El script generará una figura que muestra la imagen original junto con las imágenes resultantes de aplicar los filtros Prewitt, Sobel y Roberts.
+El script generará una figura que muestra la imagen original junto con las imágenes resultantes de aplicar los filtros Prewitt, Sobel y Roberts.  
+
 ![Result](https://github.com/deaangelg/Vision-Artificial-/blob/361855643a626f6ec9add10b236b7c8330317348/P.X1%20Filtros%20III/Filtros%20III.png)
 
 ## Bibliografía
